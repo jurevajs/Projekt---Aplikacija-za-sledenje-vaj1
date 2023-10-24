@@ -2,6 +2,7 @@
 #include "Exercise.h"
 #include "TeamWorkout.h"
 //Spremembe narejene na branchu Jure
+//Tudi te spremembe so narejene na branchu Jure
 
 using namespace std;
 
